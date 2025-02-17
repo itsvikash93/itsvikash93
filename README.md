@@ -2,7 +2,7 @@
 
 ![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Aspiring **Full-Stack Developer** with expertise in **MERN Stack, AWS, and WebSockets**. Passionate about building scalable applications and exploring new technologies! 🌍
+Aspiring **Full-Stack Developer** with expertise in **MERN Stack, AWS S3, and WebSockets**. Passionate about building scalable applications and exploring new technologies! 🌍
 
 ---
 
@@ -20,28 +20,28 @@ Aspiring **Full-Stack Developer** with expertise in **MERN Stack, AWS, and WebSo
 
 ## 🔥 **My Projects**
 
-### 🚀 [Collabify](https://github.com/your-repo)
+### 📃 [FlexiDocs](https://github.com/itsvikash93/flexi-docs)
+🔹 A flexible documentation tool for managing documents with ease.
+
+### 🚀 [Collabify](https://github.com/itsvikash93/collabify)
 🔹 Real-time **collaboration app** with Kanban board & WebSockets.
 
-### 🎥 [Omegle Clone](https://github.com/your-repo)
+### 🎥 [Omegle Clone](https://github.com/itsvikash93/omegle)
 🔹 Video chat & messaging using **WebRTC & WebSockets**.
-
-### 🛒 [TechTronics](https://github.com/your-repo)
-🔹 **E-commerce platform** built using **MERN stack**.
 
 ---
 
 ## 📊 **GitHub Stats**
 
-![Vikash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Vikash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsvikash93&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvikash93&layout=compact&theme=radical)
 
 ---
 
 ## 📫 **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](your-github-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikash-kumar-999b78256/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/itsvikash93)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge)](your-portfolio-url)
 
 ![Thanks GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
