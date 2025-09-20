@@ -26,7 +26,7 @@ Aspiring **Full-Stack Developer** with expertise in **MERN Stack, AWS S3, and We
 ### 🚀 [Collabify](https://github.com/itsvikash93/collabify)
 🔹 Real-time **collaboration app** with Kanban board & WebSockets.
 
-### 🎥 [Omegle Clone](https://github.com/itsvikash93/omegle)
+### 🎥 [Live Connect](https://github.com/itsvikash93/live-connect)
 🔹 Video chat & messaging using **WebRTC & WebSockets**.
 
 ---
@@ -40,7 +40,7 @@ Aspiring **Full-Stack Developer** with expertise in **MERN Stack, AWS S3, and We
 
 ## 📫 **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikash-kumar-999b78256/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikash-jangid-999b78256/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/itsvikash93)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge)](your-portfolio-url)
 
